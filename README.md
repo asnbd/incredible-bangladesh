@@ -1,5 +1,5 @@
 # Incredible Bangladesh
-
+![Incredible_Bangladesh_Cover](screenshots/incredible_bangladesh_cover.jpg "Incredible Bangladesh Cover")
 > Incredible Bangladesh is an Android application for tourists & travelers to explore the beauty of Incredible Bangladesh.
 
 > Developed By: [Asswad Sarker Nomaan](https://www.asswadsarker.me "Asswad Sarker Nomaan")
